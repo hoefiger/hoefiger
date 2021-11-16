@@ -5,9 +5,6 @@ Message me if you need advice for anything related to coding, or if you just wan
 
 > It's-a me!
 
-```
-It's me
-```
 *Mario*
 
 <!--
