@@ -3,9 +3,11 @@ Message me if you need advice for anything related to coding, or if you just wan
 
 #### What others say
 
+<center>
 > It's-a me!
 
 *Mario*
+</center>
 
 <!--
 **hoefiger/hoefiger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
