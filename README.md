@@ -1,5 +1,5 @@
 ### Welcome aboard 🥳
-Message me if you need advice for anything related to coding, or if you just want to have a chat!
+Message me if you need advice for anything related to coding - or if you just want to have a chat!
 
 #### What others say
 
